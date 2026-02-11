@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <defs>
+    <linearGradient id="bgApple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6C5CE7"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="36" fill="url(#bgApple)"/>
+  <!-- 脳のシルエット（左半球） -->
+  <path d="M90 40c-4 0-9 1-9 1
+    c-14 2-24 10-28 20
+    c-3 7-4 14-2 20
+    c-6 3-10 9-11 16
+    c-1 8 3 15 10 19
+    c-1 4 0 8 2 12
+    c4 7 11 10 18 9
+    c3 3 7 5 12 6
+    c2 0 4 0 5 0
+    c1 0 2 0 3-1
+    V40z"
+    fill="rgba(255,255,255,0.95)"
+    transform="translate(7, 2)"/>
+  <!-- 脳のシルエット（右半球） -->
+  <path d="M90 40c4 0 9 1 9 1
+    c14 2 24 10 28 20
+    c3 7 4 14 2 20
+    c6 3 10 9 11 16
+    c1 8-3 15-10 19
+    c1 4 0 8-2 12
+    c-4 7-11 10-18 9
+    c-3 3-7 5-12 6
+    c-2 0-4 0-5 0
+    c-1 0-2 0-3-1
+    V40z"
+    fill="rgba(255,255,255,0.85)"
+    transform="translate(-7, 2)"/>
+  <!-- クエスチョンマーク -->
+  <text x="90" y="112" text-anchor="middle" font-family="Arial, sans-serif"
+    font-size="56" font-weight="900" fill="#6C5CE7" opacity="0.6">?</text>
+</svg>
