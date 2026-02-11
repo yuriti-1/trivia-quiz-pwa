@@ -1,7 +1,7 @@
 {
   "name": "雑学クイズ - 楽しく学べるトリビアゲーム",
   "short_name": "雑学クイズ",
-  "description": "10カテゴリの雑学クイズで知識を試そう！",
+  "description": "12カテゴリ1200問の雑学クイズで知識を試そう！",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
